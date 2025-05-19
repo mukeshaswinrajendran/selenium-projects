@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 public class PlayYoutubeVid {
     public static void main(String[] args) {
         // Set the path to chromedriver executable
-        System.setProperty("webdriver.chrome.driver", "chromedriver/chrome_test/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver/chromedriver.exe");
 
         // Initialize ChromeDriver
         ChromeOptions options = new ChromeOptions();

@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class SpeedTest {
     public static void main(String[] args) {
         // Set the path to chromedriver executable
-        System.setProperty("webdriver.chrome.driver", "chromedriver/chrome_test/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver/chromedriver.exe");
 
         // Initialize ChromeDriver
         WebDriver driver = new ChromeDriver();
