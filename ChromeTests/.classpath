@@ -5,7 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="ExternalLibs/auto-service-annotations-1.1.1.jar"/>
 	<classpathentry kind="lib" path="ExternalLibs/auto-service-annotations-1.1.1-sources.jar"/>
 	<classpathentry kind="lib" path="ExternalLibs/byte-buddy-1.17.5.jar"/>
@@ -77,5 +76,6 @@
 	<classpathentry kind="lib" path="ExternalLibs/selenium-safari-driver-4.32.0-sources.jar"/>
 	<classpathentry kind="lib" path="ExternalLibs/selenium-support-4.32.0.jar"/>
 	<classpathentry kind="lib" path="ExternalLibs/selenium-support-4.32.0-sources.jar"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
